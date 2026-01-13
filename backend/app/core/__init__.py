@@ -1,0 +1,1 @@
+"""Core configuration & shared resources."""
